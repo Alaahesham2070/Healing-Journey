@@ -41,7 +41,7 @@ function Costs() {
   </div>
   <div className="carousel-inner">
     <div className="price carousel-item active">
-      <img src="./img/price-5.jpg" className="d-block w-100 " alt="..." />
+      <img src="../img/price-5.jpg" className="d-block w-100 " alt="..." />
       <div className="carousel d-none d-md-block">
        <center><h2>$800</h2></center> 
         <h4>Online International Checkup</h4>
@@ -54,7 +54,7 @@ function Costs() {
       </div>
     </div>
     <div className=" price carousel-item">
-      <img src="./img/price-3.jpg" className="d-block w-100" alt="..." />
+      <img src="../img/price-3.jpg" className="d-block w-100" alt="..." />
       <div className="carousel d-none d-md-block">
        <center><h2>$500</h2></center> 
         <div>
@@ -69,7 +69,7 @@ function Costs() {
     </div>
     <div className="price carousel-item">
       <div className="price-carousel">
-      <img src="./img/price-4.jpg" className="d-block w-100" alt="..." />
+      <img src="../img/price-4.jpg" className="d-block w-100" alt="..." />
       <div className="carousel d-none d-md-block ">
        <center><h2>$700</h2></center>
         <div>
